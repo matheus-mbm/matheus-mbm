@@ -7,4 +7,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48D1CC&height=120&section=footer"/>
 
-![Snake animation](https://github.com/matheus-mbm/matheus-mbm/blob/output/git-contribution-grid-snake.svg)
